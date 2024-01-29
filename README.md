@@ -1,1 +1,1 @@
-# survAIval-DSG-project
+This is the Machine learning project made under DSG(Data Science Group) IITR. The project focuses on predicting the probability of survival for colon cancer patients over a specified time duration. I mainly used ML models such as Cox Proportional Hazards Regression, Random Survival Forest and Gradient Boosting. Comparing the results from the above models and after some tuning , best accuracy came from Cox Proportional Hazard Regression model.
