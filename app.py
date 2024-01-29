@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request
 import pandas as pd
 import numpy as np
-from lifelines import CoxPHFitter
 import matplotlib.pyplot as plt
 from io import BytesIO
 import base64
